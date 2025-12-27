@@ -19,3 +19,6 @@ This project implements an **automatic attendance system** using real-time face 
 
 - csv file where attendance records are stored.
 
+### ✅ Python Version Recommendation
+
+- Python 3.8 – 3.11
